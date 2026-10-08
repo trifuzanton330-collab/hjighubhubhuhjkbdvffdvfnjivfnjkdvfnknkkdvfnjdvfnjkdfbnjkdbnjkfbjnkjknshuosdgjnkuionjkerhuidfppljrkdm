@@ -11,4 +11,6 @@ print("Пиццы"
       "Говайская 399руб")
 print("Фирменная 67 499руб")
 children_menu = int(input("Нужно ли вам детское меню"))
-if children_menu == да
+if children_menu == "Да"
+    print("Меню"
+          "")
